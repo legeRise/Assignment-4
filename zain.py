@@ -11,4 +11,4 @@ def index():
 
 # Run the app if this script is executed
 if __name__ == '__main__':
-    app.run(debug=True)  # Add debug=True for development purposes
+    app.run()  # Add debug=True for development purposes
